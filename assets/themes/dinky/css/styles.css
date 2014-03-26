@@ -425,6 +425,10 @@ ul.home a:hover {
     right:130px;
     top:84px;
   }
+  
+   header ul ul {
+   position: static;
+   clear: both;
 }
 
 
