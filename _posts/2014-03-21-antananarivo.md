@@ -8,8 +8,8 @@ tags: []
 ---
 {% include JB/setup %}
 
-![Antananarivo text]({{ site.url }}/assets/global/antananarivo-text.png)
+![Antananarivo text]({{ site.baseurl }}/assets/global/antananarivo-text.png)
 Antananarivo is the capital of Madagascar.
 
 ##Process
-![Antananarivo cap]({{ site.url }}/assets/global/antananarivo-caps.png)
+![Antananarivo cap]({{ site.baseurl }}/assets/global/antananarivo-caps.png)

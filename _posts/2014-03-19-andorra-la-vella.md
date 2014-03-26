@@ -8,8 +8,8 @@ tags: [andorra la vella, europe]
 ---
 {% include JB/setup %}
 
-![Andorra la Vella text]({{ site.url }}/assets/global/andorra-text.png)
+![Andorra la Vella text]({{ site.baseurl }}/assets/global/andorra-text.png)
 Andorra la Vella is the capital of Andorra.
 
 ##Process
-![Andorra la Vella cap]({{ site.url }}/assets/global/andorra-cap.png)
+![Andorra la Vella cap]({{ site.baseurl }}/assets/global/andorra-cap.png)

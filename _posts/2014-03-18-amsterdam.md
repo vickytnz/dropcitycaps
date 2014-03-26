@@ -8,8 +8,8 @@ tags: []
 ---
 {% include JB/setup %}
 
-![Amsterdam text]({{ site.url }}/assets/global/amsterdam-text.png)
+![Amsterdam text]({{ site.baseurl }}/assets/global/amsterdam-text.png)
 Amsterdam is the capital of the Netherlands.
 
 ##Process
-![Amsterdam cap]({{ site.url }}/assets/global/amsterdam-cap.png)
+![Amsterdam cap]({{ site.baseurl }}/assets/global/amsterdam-cap.png)
