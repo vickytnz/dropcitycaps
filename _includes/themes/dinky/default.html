@@ -36,7 +36,7 @@
           </ul>
           
           </li>
-          <li class="about"><a href="{{ BASE_PATH }}/about.html" ">Author</a></li>
+          <li class="about"><a href="{{ BASE_PATH }}/about.html" ">About</a></li>
           
         </ul>
         {% if site.ads.google %}
@@ -51,34 +51,6 @@
           <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
         </div>
         {% endif %}
-        {% if site.author %}
-        <div class="misc vcard">
-          <h4>Author</h4>
-          <ul>
-            {% if site.author.email %}
-            <li class="contact"><address><span class="author fn n">{{ site.author.name }}</span></address></li>
-            {% endif %}
-            {% if site.author.github %}
-            <li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">Github</a></li>
-            {% endif %}
-            {% if site.author.twitter %}
-            <li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">@{{ site.author.twitter }}</a></li>
-            {% endif %}
-            {% if site.author.facebook %}
-            <li class="facebook"><a href="http://facebook.com/{{ site.author.facebook }}/" rel="me">facebook.com/{{ site.author.facebook }}</a></li>
-            {% endif %}
-            {% if site.author.flickr %}
-            <li class="flickr"><a href="http://flickr.com/{{ site.author.flickr }}/" rel="me">flickr.com/{{ site.author.flickr }}</a></li>
-            {% endif %}
-            {% if site.author.yelp %}
-            <li class="yelp"><a href="http://{{ site.author.yelp }}.yelp.com/" rel="me">{{ site.author.yelp }}.yelp.com</a></li>
-            {% endif %}
-            {% if site.author.pinterest %}
-            <li class="pinterest"><a href="http://pinterest.com/{{ site.author.pinterest }}" rel="me">pinterest.com/{{ site.author.pinterest }}</a></li>
-            {% endif %}
-          </ul>
-        </div><!-- misc -->
-        {% endif %}
       </header>
 
       <section>
@@ -86,7 +58,7 @@
       </section>
 
       <footer>
-      <p><small>Hosted on <a href="http://pages.github.com/">GitHub Pages</a> using the <a href="https://github.com/sodabrew/theme-dinky">Dinky theme</a> for <a href="http://jekyllbootstrap.com/">Jekyll Bootstrap</a></small></p>
+      <p><small>By <span class="author fn n">{{ site.author.name }} (<a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">@{{ site.author.twitter }}</a>)</span>. = <a href="http://github.com/{{ site.author.github }}/" rel="me">Github</a>. Hosted on <a href="http://pages.github.com/">GitHub Pages</a> using the <a href="https://github.com/sodabrew/theme-dinky">Dinky theme</a> for <a href="http://jekyllbootstrap.com/">Jekyll Bootstrap</a></small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
