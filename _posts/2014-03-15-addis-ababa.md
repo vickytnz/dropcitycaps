@@ -3,7 +3,7 @@ layout: post
 title: "Addis Ababa"
 description: ""
 category: A
-thumbnail: '/assets/global/addis-ababa-thumb.png'
+thumbnail: '{{ BASE_PATH }}/assets/global/addis-ababa-thumb.png'
 tags: [africa, ethiopia]
 ---
 {% include JB/setup %}

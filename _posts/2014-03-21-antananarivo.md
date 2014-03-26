@@ -3,7 +3,7 @@ layout: post
 title: "Antananarivo"
 description: ""
 category: a
-thumbnail: '/assets/global/antananarivo-thumb.png'
+thumbnail: '{{ BASE_PATH }}/assets/global/antananarivo-thumb.png'
 tags: []
 ---
 {% include JB/setup %}
