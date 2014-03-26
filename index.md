@@ -8,7 +8,7 @@ tagline: Supporting tagline
 <ul class="posts home">
   {% for post in site.posts %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">     	{% if post.thumbnail %}
-	<img src="{{ post.thumbnail }}" />
+	<img src="{{ site.url }}{{ site.baseurl }}/{{ post.thumbnail }}" />
 	{% else %}
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/global/200px.png" />
     {% endif %}

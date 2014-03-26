@@ -3,7 +3,7 @@ layout: post
 title: "Amsterdam"
 description: ""
 category: A
-thumbnail: '{{ BASE_PATH }}/assets/global/amsterdam-thumb.png'
+thumbnail: '/assets/global/amsterdam-thumb.png'
 tags: []
 ---
 {% include JB/setup %}

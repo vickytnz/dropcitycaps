@@ -3,7 +3,7 @@ layout: post
 title: "Andorra la Vella"
 description: ""
 category: A
-thumbnail: '{{ BASE_PATH }}/assets/global/andorra-la-vella-thumb.png'
+thumbnail: '/assets/global/andorra-la-vella-thumb.png'
 tags: [andorra la vella, europe]
 ---
 {% include JB/setup %}
