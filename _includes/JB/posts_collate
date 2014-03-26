@@ -35,9 +35,9 @@ Usage:
     <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><br/>
     	<a href="{{ post.url }}">
     	{% if post.thumbnail %}
-	<img src="{{ post.thumbnail }}" />
+	<img src="{{ site.baseurl }}{{ post.thumbnail }}" />
 	{% else %}
-	<img src="/assets/global/200px.png" />
+	<img src="{{ site.baseurl }}/assets/global/200px.png" />
     {% endif %}
     </a>	
     </li>
