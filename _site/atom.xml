@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Caps Caps</title>
+ <link href="http://username.github.io/" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2014-03-26T00:04:33+00:00</updated>
+ <id>http://username.github.io</id>
+ <author>
+   <name>Vicky Teinaki</name>
+   <email>vicky.teinaki@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Baghdad</title>
+   <link href="http://username.github.io/2014/03/28/baghdad"/>
+   <updated>2014-03-28T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/28/baghdad</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Athens</title>
+   <link href="http://username.github.io/2014/03/27/athens"/>
+   <updated>2014-03-27T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/27/athens</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/athens-text.png&quot; alt=&quot;Athens text&quot; /&gt; Athens is the capital of Greece.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/athens-caps.png&quot; alt=&quot;Athens cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Asuncion</title>
+   <link href="http://username.github.io/2014/03/26/asuncion"/>
+   <updated>2014-03-26T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/26/asuncion</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/asuncion-text.png&quot; alt=&quot;Asuncion text&quot; /&gt; Asuncion is the capital of Paraguay.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/asuncion-caps.png&quot; alt=&quot;Asuncion cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Astana</title>
+   <link href="http://username.github.io/2014/03/25/astana"/>
+   <updated>2014-03-25T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/25/astana</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/astana-text.png&quot; alt=&quot;Astana text&quot; /&gt; Astana is the capital of Kazakhstan.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/astana-caps.png&quot; alt=&quot;Astana cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Asmara</title>
+   <link href="http://username.github.io/2014/03/24/asmara"/>
+   <updated>2014-03-24T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/24/asmara</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/asmara-text.png&quot; alt=&quot;Asmara text&quot; /&gt; Asmara is the capital of Eritea.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/asmara-caps.png&quot; alt=&quot;Asmara cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Ashgabat</title>
+   <link href="http://username.github.io/2014/03/23/ashgabat"/>
+   <updated>2014-03-23T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/23/ashgabat</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/ashgabat-text.png&quot; alt=&quot;Ashgabat text&quot; /&gt; Ashgabat is the capital of Turkmenstein.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/ashgabat-caps.png&quot; alt=&quot;Ashgabat cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Apia</title>
+   <link href="http://username.github.io/2014/03/22/apia"/>
+   <updated>2014-03-22T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/22/apia</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/apia-text.png&quot; alt=&quot;Apia text&quot; /&gt; Apia is the capital of Samoa.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/apiao-cap.png&quot; alt=&quot;Apiao cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Antananarivo</title>
+   <link href="http://username.github.io/2014/03/21/antananarivo"/>
+   <updated>2014-03-21T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/21/antananarivo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/antananarivo-text.png&quot; alt=&quot;Antananarivo text&quot; /&gt; Antananarivo is the capital of Madagascar.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/antananarivo-caps.png&quot; alt=&quot;Antananarivo cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Ankara</title>
+   <link href="http://username.github.io/2014/03/20/ankara"/>
+   <updated>2014-03-20T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/20/ankara</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/ankara-text.png&quot; alt=&quot;Ankara text&quot; /&gt; Ankara is the capital of Turkey.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/ankara-cap.png&quot; alt=&quot;Ankara cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Andorra la Vella</title>
+   <link href="http://username.github.io/2014/03/19/andorra-la-vella"/>
+   <updated>2014-03-19T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/19/andorra-la-vella</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/andorra-text.png&quot; alt=&quot;Andorra la Vella text&quot; /&gt; Andorra la Vella is the capital of Andorra.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/andorra-cap.png&quot; alt=&quot;Andorra la Vella cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Amsterdam</title>
+   <link href="http://username.github.io/2014/03/18/amsterdam"/>
+   <updated>2014-03-18T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/18/amsterdam</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/amsterdam-text.png&quot; alt=&quot;Amsterdam text&quot; /&gt; Amsterdam is the capital of the Netherlands.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/amsterdam-cap.png&quot; alt=&quot;Amsterdam cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Ammman</title>
+   <link href="http://username.github.io/2014/03/17/amman"/>
+   <updated>2014-03-17T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/17/amman</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/amman-text.png&quot; alt=&quot;Amman text&quot; /&gt; Amman is the capital of Jordan.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/amman-cap.png&quot; alt=&quot;Amman cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Algiers</title>
+   <link href="http://username.github.io/2014/03/16/algiers"/>
+   <updated>2014-03-16T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/16/algiers</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/algiers-text.png&quot; alt=&quot;Algiers text&quot; /&gt; Algiers is the capital of Algeria.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/algiers-cap.png&quot; alt=&quot;Algiers cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Addis Ababa</title>
+   <link href="http://username.github.io/2014/03/15/addis-ababa"/>
+   <updated>2014-03-15T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/15/addis-ababa</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/addis-ababa-text.png&quot; alt=&quot;Addis Ababa text&quot; /&gt; Addis Ababa is the capital of Ethiopia.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/addis-ababa-cap.png&quot; alt=&quot;Addis Ababa cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Abuja</title>
+   <link href="http://username.github.io/2014/03/14/abuja"/>
+   <updated>2014-03-14T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/14/abuja</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/abuja-text.png&quot; alt=&quot;Abuja text&quot; /&gt; Abuja is the capital of Nigeria.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/abuja-cap.png&quot; alt=&quot;Abuja cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Accra</title>
+   <link href="http://username.github.io/2014/03/13/accra"/>
+   <updated>2014-03-13T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/13/accra</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/accra-text.png&quot; alt=&quot;Accra text&quot; /&gt; Accra is the capital of Ghana.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/accra-cap.png&quot; alt=&quot;Accra cap&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Abu Dhabi</title>
+   <link href="http://username.github.io/2014/03/12/abu-dhabi"/>
+   <updated>2014-03-12T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/03/12/abu-dhabi</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/global/abu-dhabi-text.png&quot; alt=&quot;Abu Dhabi text&quot; /&gt; Abu Dhabi has the honour of being the first alphabetical capital in the word.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/global/abu-dhabi-cap.png&quot; alt=&quot;Abu Dhabi cap&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was fascinated with their tall towers and sketched out some options based on this.&lt;/p&gt;
+
+&lt;p&gt;I have to admit that these aren’t really drop caps in the true sense as they should go town.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
