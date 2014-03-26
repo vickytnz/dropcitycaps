@@ -8,9 +8,9 @@ tagline: Supporting tagline
 <ul class="posts home">
   {% for post in site.posts %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">     	{% if post.thumbnail %}
-	<img src="{{ post.thumbnail }}" />
+	<img src="{{ site.baseurl }}{{ post.thumbnail }}" />
 	{% else %}
-	<img src="{{ BASE_PATH }}/assets/global/200px.png" />
+	<img src="{{ site.baseurl }}/assets/global/200px.png" />
     {% endif %}
     <h3>{{ post.title }}</h3>
     {{ post.date | date_to_string }}
