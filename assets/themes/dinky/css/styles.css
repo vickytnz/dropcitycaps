@@ -26,7 +26,7 @@ time, mark, audio, video {
 /* Base text styles */
 
 body {
-  padding:10px 50px 0 0;
+  padding:10px 0 0 0;
   font-family:"Arvo", serif;
 	font-size: 14px;
 	color: #232323;
@@ -430,7 +430,21 @@ ul.home a:hover {
    position: static;
    clear: both;
 }
+}
 
+@media print, screen and (min-width: 960px) {
+body.url_index .wrapper {
+	width: 100%;
+}
+body.url_index section {
+width: 100%;
+box-sizing: border-box;
+/* width: 650px; */
+float: right;
+padding-bottom: 50px;
+padding-left: 150px;
+}
+}
 
 
 @media print, screen and (max-width: 720px) {

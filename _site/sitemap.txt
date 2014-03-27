@@ -8,6 +8,9 @@ http://vickytnz.github.io/dropcitycaps/pages.html
 http://vickytnz.github.io/dropcitycaps/rss.xml
 http://vickytnz.github.io/dropcitycaps/sitemap.txt
 http://vickytnz.github.io/dropcitycaps/tags.html
+http://vickytnz.github.io/dropcitycaps
+http://vickytnz.github.io/dropcitycaps
+http://vickytnz.github.io/dropcitycaps
 
 http://vickytnz.github.io/dropcitycaps/2014/03/28/baghdad
 http://vickytnz.github.io/dropcitycaps/2014/03/27/athens
