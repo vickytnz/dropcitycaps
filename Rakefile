@@ -45,6 +45,8 @@ desc "Begin a new post in #{CONFIG['posts']}"
 task :post do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   title = ENV["title"] || "new-post"
+  country = ENV["country"] || ""
+  imagename = ENV["imagename"] || ""
   tags = ENV["tags"] || "[]"
   category = ENV["category"] || ""
   category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
@@ -67,10 +69,16 @@ task :post do
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
     post.puts 'description: ""'
     post.puts "category: #{category}"
-    post.puts "thumbnail: '/assets/global/200px.png'"
+    post.puts "country: #{country}"
+    post.puts "thumbnail: '/assets/global/#{imagename}-thumb.png'"
     post.puts "tags: #{tags}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
+    post.puts "![\{title.gsub(/-/,' ')} text]({{ site.baseurl }}/assets/global//#{imagename}-text.png)"
+    post.puts "\{title.gsub(/-/,' ')} is the capital of #{country}."
+    post.puts "##Process"
+    post.puts "![#{title.gsub(/-/,' ')} text]({{ site.baseurl }}/assets/global//#{imagename}-caps.png)"
+
   end
 end # task :post
 
