@@ -9,6 +9,4 @@ http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html
 new post options
 rake post title="" imagename="" country="" category=""
 
-to push to Github pages
-
-rake site:publish
+to push to Github pages: rake site:publish
