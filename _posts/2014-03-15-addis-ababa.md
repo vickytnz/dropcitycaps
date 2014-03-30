@@ -3,7 +3,7 @@ layout: post
 title: "Addis Ababa"
 description: ""
 category: A
-country: Ethiopia
+country: "Ethiopia"
 thumbnail: '/assets/global/addis-ababa-thumb.png'
 tags: [africa, ethiopia]
 ---

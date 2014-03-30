@@ -14,6 +14,7 @@ tagline: Supporting tagline
     {% endif %}
     <h3>{{ post.title }}</h3>
     {{ post.date | date_to_string }}
+    <h4>{{post.country}}</h4>
 </a></li>
   {% endfor %}
 </ul>
