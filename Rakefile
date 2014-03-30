@@ -74,10 +74,10 @@ task :post do
     post.puts "tags: #{tags}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
-    post.puts "![\{title.gsub(/-/,' ')} text]({{ site.baseurl }}/assets/global//#{imagename}-text.png)"
-    post.puts "\{title.gsub(/-/,' ')} is the capital of #{country}."
+    post.puts "![\{title} text]({{ site.baseurl }}/assets/global/#{imagename}-text.png)"
+    post.puts "\{title} is the capital of #{country}."
     post.puts "##Process"
-    post.puts "![#{title.gsub(/-/,' ')} text]({{ site.baseurl }}/assets/global//#{imagename}-caps.png)"
+    post.puts "![#{title} text]({{ site.baseurl }}/assets/global/#{imagename}-caps.png)"
 
   end
 end # task :post
