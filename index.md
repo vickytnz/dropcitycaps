@@ -13,7 +13,7 @@ tagline: Supporting tagline
 	<img src="{{ site.baseurl }}/assets/global/200px.png" />
     {% endif %}
     <h3>{{ post.title }}</h3>
-    {{post.country}}
+    <span>{{post.country}}</span>
     {{ post.date | date_to_string }}
     
 </a></li>
