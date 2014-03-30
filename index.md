@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Drop City Caps
-tagline: Supporting tagline
+tagline: Capitals, one letter at a time
+description: "Capitals, one letter at a time"
 ---
 {% include JB/setup %}
 
