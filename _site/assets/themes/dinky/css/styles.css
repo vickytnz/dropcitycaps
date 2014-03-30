@@ -390,7 +390,7 @@ ul.home a:hover {
 }
 
 ul.home li span {
-	color: black !important:
+	color: black !important;
 	clear: both;
 	text-transform: uppercase;
 }
