@@ -373,6 +373,8 @@ ul.home h3 {
 border: none;
 }
 
+
+
 ul.home img {
 	float: left;
 	margin-bottom: 10px; 
@@ -385,6 +387,12 @@ background-color: #FBFAF7;
 
 ul.home a:hover {
 	text-decoration: none;
+}
+
+ul.home li span {
+	color: black !important:
+	clear: both;
+	text-transform: uppercase;
 }
 
 @media print, screen and (max-width: 960px) {
