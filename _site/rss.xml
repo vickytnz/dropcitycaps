@@ -5,10 +5,50 @@
         <description>Caps Caps - Vicky Teinaki</description>
         <link>http://vickytnz.github.io/dropcitycaps</link>
         <link>http://vickytnz.github.io/dropcitycaps</link>
-        <lastBuildDate>2014-03-29T21:53:12+00:00</lastBuildDate>
-        <pubDate>2014-03-29T21:53:12+00:00</pubDate>
+        <lastBuildDate>2014-03-30T00:38:01+00:00</lastBuildDate>
+        <pubDate>2014-03-30T00:38:01+00:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Bamako</title>
+                <description>&lt;p&gt;&lt;img src=&quot;/dropcitycaps/assets/global/bamako-text.png&quot; alt=&quot;Bamako text&quot; /&gt; Bamako is the capital of Mali.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;Bamako means ‘crocodile river’, so I was keen to try and weave this into the explorations.&lt;/p&gt;
+
+&lt;p&gt;I’d originally played around with ways of incorporating a crocodile and a river in the old fashioned dropcap style (i.e. adding an image to text).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dropcitycaps/assets/global/crocodile-river-start.png&quot; alt=&quot;Crocodile river starts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I’d been playing with different Bs in Fontbook and realised I could use a blackletter style letter as a way to show both the crocodile and the river. &lt;img src=&quot;/dropcitycaps/assets/global/all-the-bs.jpg&quot; alt=&quot;List of Bs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Which I sketched and figured out the skeleton for.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dropcitycaps/assets/global/bamako-skeleton.png&quot; alt=&quot;Getting the skeleton right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was interested in the idea of merging the crocodile and the river with a pattern going from green to blue, so tried out making a pattern brush.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dropcitycaps/assets/global/bamako-pattern.png&quot; alt=&quot;Yay! I can use a pattern brush!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It looked great (and actually might be good for the Beijing capital which is coming up soon), but it didn’t look very crocodile.&lt;/p&gt;
+
+&lt;p&gt;After looking around online for patterns, I followed &lt;a href=&quot;http://design.tutsplus.com/tutorials/create-your-own-leather-texture-using-adobe-illustrator--vector-5572&quot;&gt;a tutorial to make leather textures in Photoshop&lt;/a&gt;, used this as a clipping mask and then used the path finder to make a clean image.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dropcitycaps/assets/global/bamako-leather.png&quot; alt=&quot;Making leather pattern&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Which gives the final product: &lt;img src=&quot;/dropcitycaps/assets/global/bamako-caps.png&quot; alt=&quot;Bamako text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It also looks &lt;em&gt;amazing&lt;/em&gt; on black.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dropcitycaps/assets/global/bamako-inverted.png&quot; alt=&quot;Bamako inverted&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is available &lt;a href=&quot;/dropcitycaps/assets/global/bamako.svg&quot;&gt;as SVG&lt;/a&gt; to play with.&lt;/p&gt;</description>
+                <link>http://vickytnz.github.io/dropcitycaps/2014/03/30/bamako</link>
+                <guid>http://vickytnz.github.io/dropcitycaps/2014/03/30/bamako</guid>
+                <pubDate>2014-03-30T00:00:00+00:00</pubDate>
+        </item>
 
         <item>
                 <title>Baku</title>
