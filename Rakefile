@@ -74,8 +74,8 @@ task :post do
     post.puts "tags: #{tags}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
-    post.puts "![\{title} text]({{ site.baseurl }}/assets/global/#{imagename}-text.png)"
-    post.puts "\{title} is the capital of #{country}."
+    post.puts "![#{title} text]({{ site.baseurl }}/assets/global/#{imagename}-text.png)"
+    post.puts "#{title} is the capital of #{country}."
     post.puts "##Process"
     post.puts "![#{title} text]({{ site.baseurl }}/assets/global/#{imagename}-caps.png)"
 
