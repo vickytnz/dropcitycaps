@@ -5,7 +5,7 @@ description: ""
 category: "B"
 country: St Kitts and Nevis
 thumbnail: '/assets/global/basseterre-thumb.png'
-tags: []
+tags: ["central america", "wind"]
 ---
 {% include JB/setup %}
 ![Basseterre text]({{ site.baseurl }}/assets/global/basseterre-text.png)

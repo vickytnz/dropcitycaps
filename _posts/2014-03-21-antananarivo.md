@@ -5,7 +5,7 @@ description: ""
 category: a
 country: "Madagascar"
 thumbnail: '/assets/global/antananarivo-thumb.png'
-tags: []
+tags: ["africa", "animal"]
 ---
 {% include JB/setup %}
 

@@ -5,7 +5,7 @@ description: ""
 category: A
 country: "Andorra"
 thumbnail: '/assets/global/andorra-la-vella-thumb.png'
-tags: [andorra la vella, europe]
+tags: ["europe", "sport"]
 ---
 {% include JB/setup %}
 

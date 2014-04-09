@@ -5,7 +5,7 @@ description: ""
 category: "B"
 country: Brunei
 thumbnail: '/assets/global/bandar-seri-begawan-thumb.png'
-tags: []
+tags: ["asia", "water"]
 ---
 {% include JB/setup %}
 ![Bandar Beri Begawan text]({{ site.baseurl }}/assets/global/bandar-seri-begawan-text.png)

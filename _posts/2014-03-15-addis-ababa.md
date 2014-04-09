@@ -5,7 +5,7 @@ description: ""
 category: A
 country: "Ethiopia"
 thumbnail: '/assets/global/addis-ababa-thumb.png'
-tags: [africa, ethiopia]
+tags: ["africa", "flower"]
 ---
 {% include JB/setup %}
 

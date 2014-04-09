@@ -5,7 +5,7 @@ description: ""
 category: A
 country: "the Netherlands"
 thumbnail: '/assets/global/amsterdam-thumb.png'
-tags: []
+tags: ["europe", "building"]
 ---
 {% include JB/setup %}
 
