@@ -21,3 +21,5 @@ I have to admit that this cap took many cues from [Jessica Hische's similar one]
 ![Addis Ababa sketches]({{ site.baseurl }}/assets/global/addis-ababa-sketches.png)
 
 ![Addis Ababa cap]({{ site.baseurl }}/assets/global/addis-ababa-cap.png)
+
+
