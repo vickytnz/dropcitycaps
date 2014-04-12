@@ -109,7 +109,7 @@ Obviously this project owes a lot to Jessica Hische's [Daily Drop Cap](http://da
 <tr><td><a href="{% post_url 2014-04-10-bern %}">Bern</a></td><td> Switzerland</td><td>10 April 2014</td><td><a href="https://en.wikipedia.org/wiki/Bern">Wikipedia</a></td></tr>
 
 
-<tr><td>Bishkek</td><td>Kyrgyzstan</td><td></td><td></td></tr>
+<tr><td><a href="{% post_url 2014-04-11-bishkek %}">Bishkek</a></td><td>Kyrgyzstan</td><td>11 April 2014</td><td><a href="https://en.wikipedia.org/wiki/Bishkek">Wikipedia</a></td></tr>
 
 <tr><td>Bissau</td><td>Guinea-Bissau</td><td></td><td></td></tr>
 <tr><td>Bogotá</td><td>Colombia</td><td></td><td></td></tr>
