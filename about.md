@@ -112,7 +112,7 @@ Obviously this project owes a lot to Jessica Hische's [Daily Drop Cap](http://da
 <tr><td><a href="{% post_url 2014-04-11-bishkek %}">Bishkek</a></td><td>Kyrgyzstan</td><td>11 April 2014</td><td><a href="https://en.wikipedia.org/wiki/Bishkek">Wikipedia</a></td></tr>
 
 <tr><td><a href="{% post_url 2014-04-12-bissau %}">Bissau</a></td><td>Guinea-Bissau</td><td>12 April 2014</td><td><a href="http://www.everyculture.com/Ge-It/Guinea-Bissau.html">Every Culture</a></td></tr>
-<tr><td>Bogotá</td><td>Colombia</td><td></td><td></td></tr>
+<tr><td><a href="{% post_url 2014-04-13-bogota %}">Bogotá</a></td><td>Colombia</td><td>13 April 2014</td><td><a href="http://www.spanishdict.com/answers/132898/what-does-the-word-bogota-mean-beside-being-the-capital-of-columbiawhere-did-it-originate-from">Spanish Dict</a></td></tr>
 
 <tr><td>Brasília</td><td>Brazil</td><td></td><td></td></tr>
 
